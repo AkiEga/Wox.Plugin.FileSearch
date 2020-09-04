@@ -1,0 +1,12 @@
+{
+  "ID": "B2DC9775AD6A4B1B95DF6141C233DCB8",
+  "ActionKeyword": "*",
+  "Name": "File search everything",
+  "Description": "Search with Everything",
+  "Author": "akiega",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "",
+  "IcoPath": "Images\\find.png",
+  "ExecuteFileName": "Wox.Plugin.FileSearch.dll"
+}
