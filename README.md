@@ -1,4 +1,4 @@
 Wox.Plugin.FileSearch
 =====================
 
-Wox plugin to file search with [Everything](https://www.voidtools.com)
+Wox plugin to search local files with [Everything](https://www.voidtools.com)
